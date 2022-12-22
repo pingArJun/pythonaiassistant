@@ -1,0 +1,60 @@
+Download all the dependecies ..
+and enjoy . 
+this will do ur work by ur voice command
+thanks.
+my laptop pip list is shown below.
+async-generator    1.10
+attrs              22.1.0
+beautifulsoup4     4.11.1
+certifi            2022.6.15
+cffi               1.15.1
+charset-normalizer 2.1.0
+click              8.1.3
+colorama           0.4.5
+comtypes           1.1.14
+cryptography       37.0.4
+Flask              2.2.2
+h11                0.13.0
+idna               3.3
+itsdangerous       2.1.2
+Jinja2             3.1.2
+json5              0.9.8
+MarkupSafe         2.1.1
+MouseInfo          0.1.3
+outcome            1.2.0
+Pillow             9.3.0
+pip                22.3.1
+psutil             5.9.1
+PyAudio            0.2.12
+PyAutoGUI          0.9.53
+pycparser          2.21
+PyGetWindow        0.0.9
+PyMsgBox           1.0.9
+pyOpenSSL          22.0.0
+pyperclip          1.8.2
+pypiwin32          223
+PyRect             0.2.0
+PyScreeze          0.1.28
+pyserial           3.5
+PySocks            1.7.1
+python-dotenv      0.20.0
+pyttsx3            2.90
+pytweening         1.0.4
+pyusb              1.2.1
+pywhatkit          5.4
+pywin32            305
+requests           2.28.1
+selenium           4.3.0
+setuptools         58.1.0
+sniffio            1.2.0
+sortedcontainers   2.4.0
+soupsieve          2.3.2.post1
+SpeechRecognition  3.9.0
+tqdm               4.64.0
+trio               0.21.0
+trio-websocket     0.9.2
+urllib3            1.26.11
+webdriver-manager  3.8.3
+Werkzeug           2.2.2
+wikipedia          1.4.0
+wsproto            1.1.0
